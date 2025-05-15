@@ -29,14 +29,14 @@
 ### 📌 Landing Page Analyzer  
 Tool that analyzes landing pages using screenshots and GPT-4.  
 **Tech:** Flask, Image Processing, Web Scraping, Prompt Engineering  
-[🔗 Source Code](https://github.com/2005-PriyanshuSaini/landing-page-analyzer) • [🌐 Live Demo](https://priyanshusaini.onrender.com)
+[🔗 Source Code](https://github.com/2005-PriyanshuSaini/Landing-Page-Analyser.git) • [🌐 Live Demo](https://priyanshusaini.onrender.com)
 
 ---
 
 ### 🍽️ Restaurant Management NLP Chatbot  
 Chatbot that handles restaurant orders and customer queries.  
 **Tech:** Dialogflow, Flask, NLP  
-[🔗 Source Code](#) • [🌐 Live Demo](#)
+[🔗 Source Code](https://github.com/2005-PriyanshuSaini/NLP_Chatbot-Dialog_flow.git) • [🌐 Live Demo](#)
 
 ---
 
