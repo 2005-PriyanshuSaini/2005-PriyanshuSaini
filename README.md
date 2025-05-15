@@ -12,7 +12,6 @@
 
 - I'm 20 and I enjoy building things that work well and look clean.
 - Most of my projects are full-stack, and I like hosting them myself.
-- I sometimes get coding advice from my turtle, Luffy 🐢.
 
 ---
 
@@ -20,22 +19,6 @@
 
 - **Arka Consultancy** — Intern (Web & AI) (July 2024 – March 2025)  
 - **Chandigarh University** — Research Intern (Jan 2025 – Apr 2025)
-
----
-
-## 🔧 Projects
-
-### 📌 Landing Page Analyzer  
-Tool that analyzes landing pages using screenshots and GPT-4.  
-**Tech:** Flask, Image Processing, Web Scraping, Prompt Engineering  
-[🔗 Source Code](https://github.com/2005-PriyanshuSaini/Landing-Page-Analyser.git) • [🌐 Live Demo](https://priyanshusaini.onrender.com)
-
----
-
-### 🍽️ Restaurant Management NLP Chatbot  
-Chatbot that handles restaurant orders and customer queries.  
-**Tech:** Dialogflow, Flask, NLP  
-[🔗 Source Code](https://github.com/2005-PriyanshuSaini/NLP_Chatbot-Dialog_flow.git) • [🌐 Live Demo](#)
 
 ---
 
