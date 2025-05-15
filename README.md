@@ -18,9 +18,8 @@
 
 ## 💼 Experience
 
-- **Agilite** — Developer (July 2024 – March 2025)  
-- **Arka Consultancy** — Intern (Web & AI)  
-- **Maximl Labs** — Research Intern (Jan 2025 – Apr 2025)
+- **Arka Consultancy** — Intern (Web & AI) (July 2024 – March 2025)  
+- **Chandigarh University** — Research Intern (Jan 2025 – Apr 2025)
 
 ---
 
