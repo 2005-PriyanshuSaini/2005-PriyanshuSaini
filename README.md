@@ -49,12 +49,12 @@
 ## 📫 Contact
 
 [![GitHub](https://img.shields.io/badge/GitHub-000?style=flat&logo=github)](https://github.com/2005-PriyanshuSaini)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin)](https://www.linkedin.com/in/priyanshu-saini-4b4a0a28a/)
-[![Twitter](https://img.shields.io/badge/X-1DA1F2?style=flat&logo=twitter)](https://twitter.com/Dev_Priyanshu_1)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin)]([https://www.linkedin.com/in/prynshu/])
+[![Twitter](https://img.shields.io/badge/X-1DA1F2?style=flat&logo=twitter)](https://x.com/Dev_Prynshu)
 [![Linktree](https://img.shields.io/badge/Linktree-43e55b?style=flat&logo=linktree)](https://linktr.ee/Priyanshu_Saini2005)
 
 📧 **Email:** [Priyanshusaini9991@gmail.com](mailto:Priyanshusaini9991@gmail.com)  
-📄 [Resume (PDF)](https://drive.google.com/file/d/1-2z_mVgygun_uHoySuZBhAwvxqfFnBQC/view?usp=sharing)
+📄 [Resume (PDF)](https://docs.google.com/document/d/1_LnjZy7qLLiSqB8eeqibY--Ht0c948B17oVZr9wiS1c/edit?usp=sharing)
 
 ---
 
