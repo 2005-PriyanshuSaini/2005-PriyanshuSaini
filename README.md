@@ -1,8 +1,3 @@
-<!-- Profile Header with Welcome GIF -->
-<p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="200" alt="Welcome GIF" />
-</p>
-
 <h1 align="center">Hi, I'm Priyanshu 👋</h1>
 <p align="center">🧑‍💻 Full-Stack Developer | Self-Hosting Enthusiast | Haryana, India</p>
 
