@@ -37,15 +37,15 @@
 
 ## 🚀 Projects
 
-### 🤖 [AutoSocial AI](https://github.com/2005-PriyanshuSaini)
+### 🤖 [AutoSocial AI](https://github.com/2005-PriyanshuSaini/AutoSocial-AI)
 Background session listener that summarizes activity and auto-posts to X and LinkedIn.  
 `Python` `FastAPI` `PostgreSQL` `X API` `LinkedIn API`
 
-### 🔍 [Landing Page Analyser](https://lpa-intro.vercel.app)
+### 🔍 [Landing Page Analyser](https://github.com/2005-PriyanshuSaini/Landing-Page-Analyser)
 Analyzes landing pages using ResNet50 + OpenAI for visual scoring and AI-powered improvement suggestions.  
 `Python` `FastAPI` `ResNet50` `OpenAI API` `Selenium` `PostgreSQL`
 
-### 💬 Fortify NLP
+### 💬 [Fortify NLP](https://github.com/2005-PriyanshuSaini/Foritfy_NLP)
 Niche domain chatbot built for specific business use-cases.  
 `Python` `FastAPI` `NLP`
 
