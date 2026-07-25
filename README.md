@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I'm Priyanshu 👋</h1>
 <p align="center">
-  🧑‍💻 Full-Stack Developer &nbsp;|&nbsp; AI Integrations &nbsp;|&nbsp; Haryana, India
+  🧑‍💻 Full-Stack Developer &nbsp;|&nbsp; AI Engineer &nbsp;|&nbsp; Haryana, India
 </p>
 <p align="center">
   <a href="https://github.com/2005-PriyanshuSaini"><img src="https://img.shields.io/badge/GitHub-000?style=flat&logo=github" /></a>
@@ -14,9 +14,9 @@
 
 ## 👨‍💻 About Me
 
-- 🎓 3rd year CS student at Chandigarh University
+- 🎓 Final-year CS student at Chandigarh University
 - 🔭 I build full-stack web apps and integrate LLMs/AI APIs into real products
-- 🧪 Published researcher — working on LLM-based fraud detection & MLOps
+- 🏆 Best Paper Award (CSR 2026) for LLM-based fraud detection research
 - 🏍️ When not coding, I'm on a bike trip somewhere in Haryana
 
 ---
@@ -29,10 +29,6 @@
 - Shipped a SaaS AI Content Writer with Next.js, Stripe, Clerk, and Neon
 - Built and deployed Shopify client stores (Poochyx, Esthetique Jewels, Evoni)
 
-**Chandigarh University** — Research Intern *(Jan 2025 – Apr 2025)*
-- Working on LLM-based UPI fraud detection (paper pending acceptance)
-- Published research on Customer Satisfaction using MLOps — ICELLL 2025
-
 ---
 
 ## 🚀 Projects
@@ -41,7 +37,7 @@
 Background session listener that summarizes activity and auto-posts to X and LinkedIn.  
 `Python` `FastAPI` `PostgreSQL` `X API` `LinkedIn API`
 
-### 🔍 [Landing Page Analyser](https://github.com/2005-PriyanshuSaini/Landing-Page-Analyser)
+### 🔍 [Landing Page Analyser](https://lpa-intro.vercel.app)
 Analyzes landing pages using ResNet50 + OpenAI for visual scoring and AI-powered improvement suggestions.  
 `Python` `FastAPI` `ResNet50` `OpenAI API` `Selenium` `PostgreSQL`
 
@@ -53,10 +49,8 @@ Niche domain chatbot built for specific business use-cases.
 
 ## 📄 Research
 
-| Title | Status | Venue |
-|-------|--------|-------|
-| Customer Satisfaction Prediction using MLOps | ✅ Accepted | ICELLL 2025 |
-| LLM-based UPI Fraud Detection | 🔄 Under Review | — |
+**LLM-based UPI Fraud Detection** — 🏆 Best Paper Award, CSR 2026  
+Hybrid ML-LLM framework (Llama 3.3 70B) for fraud detection · AUC 0.749 · F1 0.631
 
 ---
 
@@ -103,14 +97,10 @@ Niche domain chatbot built for specific business use-cases.
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Activity
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=2005-PriyanshuSaini&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=2005-PriyanshuSaini&show_icons=true&theme=tokyonight&hide_border=true" alt="Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=2005-PriyanshuSaini&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+  <img src="https://raw.githubusercontent.com/2005-PriyanshuSaini/2005-PriyanshuSaini/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" width="100%" />
 </p>
 
 ---
